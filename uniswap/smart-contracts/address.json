@@ -1,0 +1,11 @@
+{
+   "pangolin": {
+      "WETH": "0x0C38Efb8d2d99F6cFF1e6d7677bc8Eca727CC005",
+      "factory": "0x671EB5a157328b46518D9D0d070e33404Bae5758",
+      "router": "0x3277B7BABbeadF5dC43D5350df25310f3c819965",
+      "multicall": "0xC17694286E463F1D679c89977326Eb8Ee32f8FAF",
+      "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c"
+   },
+   "crab": {
+   }
+}
